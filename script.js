@@ -2,7 +2,7 @@
 
 //En el archivo index.html que tienes abierto en el navegador (preferiblemente chrome o firefox) vamos a trabajar con la consola, abre tu inspector y en la pestaña de consola, mira si puedes ver el mensaje escrito abajo.
 
-console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
+console.log('Hola soy tu consola y juntas vamos a aprender Javascript marta')
 
 //Si has encontrado el mensaje puedes continuar con los ejercicios
 
